@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
+  float ringu;
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
